@@ -1,0 +1,22 @@
+PODS:
+  - Cuckoo (0.7.0)
+
+DEPENDENCIES:
+  - Cuckoo (from `https://github.com/SwiftKit/Cuckoo.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  Cuckoo:
+    :branch: master
+    :git: https://github.com/SwiftKit/Cuckoo.git
+
+CHECKOUT OPTIONS:
+  Cuckoo:
+    :commit: ed32e76438593754892da5ced8073a9743080dd8
+    :git: https://github.com/SwiftKit/Cuckoo.git
+
+SPEC CHECKSUMS:
+  Cuckoo: 16b23677db484ec37a3b98deebf11b5f6af40c79
+
+PODFILE CHECKSUM: 093d19e2c43dfeaf081b4df04437b9cc230dfa82
+
+COCOAPODS: 1.1.0.rc.2

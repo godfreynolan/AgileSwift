@@ -1,0 +1,11 @@
+language: objective-c
+git:
+  submodules: false
+branches:
+  only:
+    - master
+script: make test
+osx_image: xcode8
+notifications:
+  email: false
+  slack: realmio:vPdpsG9NLDo2DNlbqtcMAQuE

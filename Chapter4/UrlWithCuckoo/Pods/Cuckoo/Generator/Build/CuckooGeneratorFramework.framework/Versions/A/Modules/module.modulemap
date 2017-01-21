@@ -1,0 +1,10 @@
+framework module CuckooGeneratorFramework {
+  umbrella header "CuckooGeneratorFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CuckooGeneratorFramework.Swift {
+    header "CuckooGeneratorFramework-Swift.h"
+}
